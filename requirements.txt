@@ -1,0 +1,6 @@
+spark-nlp
+pyspark
+numpy
+logging
+pandas
+ipython

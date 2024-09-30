@@ -1,0 +1,94 @@
+Partial results:
+
+2024:
+              keywords  begin    end     score  sentence
+0      governar cidade    550    572  0.455410         4
+1          cidade país    567    580  0.751652         4
+2        agência fatos   2661   2677  0.195025        33
+3     direito resposta   2875   2893  0.269808        35
+4        saúde pública   5714   5726  0.305004        61
+5    segurança pública   7813   7829  0.661645        77
+6        cuidar cidade   8316   8337  0.402084        82
+7     segurança cidade   8648   8666  0.508540        85
+9           será feita   9797   9806  0.618497        98
+11       saúde pessoas  14006  14022  0.643003       149
+12     paulistão saúde  14163  14180  0.656775       153
+17     minuto resposta  18270  18295  0.347450       197
+18  ministério público  19472  19489  0.355736       205
+24         campo limpo  26524  26534  0.596613       282
+23      hospital campo  26512  26528  0.703778       282
+36  transporte público  35371  35388  0.671232       375
+43    pessoas situação  43361  43379  0.727483       454
+46       polícia civil  44948  44960  0.530948       472
+68     polícia federal  59148  59162  0.474189       659
+75       morro macacos  64758  64774  0.652687       735
+
+com tres palavras
+                       keywords  begin    end     score  sentence
+0    guarda civil metropolitana   9230   9255  3.725252        92
+1    estadual maria auxiliadora  10440  10465  5.672175       104
+2            cidade rica brasil  10680  10705  1.872336       106
+3         falar paulistão saúde  14154  14180  5.065675       153
+4           vou paulistão saúde  14240  14267  4.461590       154
+5        brasil chegaram cidade  14840  14876  4.009607       162
+6              cidade ar cidade  14871  14906  4.978701       162
+8          hospital campo limpo  26512  26534  2.195429       282
+7            uti hospital campo  26505  26528  2.935506       282
+10      saúde financeira cidade  27436  27461  5.350214       292
+13        cidade américa latina  28766  28789  3.766052       305
+15          guardiã maria penha  31663  31684  3.759310       334
+17     monitorado agência fatos  34351  34383  2.981604       362
+19   propriedade pessoas brasil  39165  39208  5.431588       410
+21         federal minas gerais  41827  41849  5.216703       436
+20   universidade federal minas  41814  41842  5.878628       436
+23          brasil volte cidade  56875  56903  4.034791       627
+24  superior ministério público  60187  60216  4.901226       670
+25    resposta ministério saúde  61662  61692  3.727932       696
+26     polícia federal indiciou  69240  69263  5.051140       798
+
+2012:
+                keywords   begin     end     score  sentence
+0     congresso nacional    6071    6088  0.104691        37
+5          cidade estado   18612   18641  0.254520       149
+7        governo federal   21161   21175  0.063243       176
+6       governo estadual   21121   21136  0.152181       176
+9            rio janeiro   21604   21617  0.247695       179
+10          guarda civil   22107   22118  0.220841       184
+12        governo estado   27218   27234  0.176836       243
+13       geraldo alckmin   27270   27284  0.291908       243
+14    ministério cultura   29777   29797  0.223026       272
+15   ministério educação   30564   30585  0.176324       280
+17       prefeito kassab   35343   35357  0.284192       308
+28      presidente dilma   46109   46124  0.195717       407
+29         marta suplicy   46492   46504  0.186830       412
+34        escola pública   51079   51092  0.348568       463
+37     segurança pública   52829   52845  0.083058       477
+42        cultura cidade   53341   53371  0.264195       481
+45        pública estado   53586   53602  0.260690       484
+72               pt psdb   70194   70202  0.186735       619
+99         rede estadual  104036  104048  0.289556       909
+101      educação estado  105445  105462  0.210471       926
+
+com tres palavras
+
+                          keywords   begin     end     score  sentence
+1   deficiência congresso nacional   13408   13440  1.594780        89
+0      estatuto pessoa deficiência   13385   13418  1.700975        89
+4       guarda civil metropolitana   22107   22132  0.948841       184
+5          marta deixar ministério   30879   30903  2.093734       284
+6        dilma marta indispensável   31063   31111  1.774883       285
+7          ministério apoiar marta   46811   46876  2.069084       415
+11        segurança pública estado   53576   53602  0.449949       484
+13          pública estado estamos   53636   53682  1.901524       484
+14      estado território nacional   54423   54460  1.940468       490
+15           marta suplicy governo   73330   73354  1.444863       638
+17              governo federal pt   81010   81030  1.197455       687
+16      ministério governo federal   80984   81024  1.656617       687
+18           governo estadual psdb   81077   81100  1.732898       687
+24   ministério governo federal pt   80984   81030  1.811621       687
+19      secretário educação estado  105431  105462  1.373485       926
+21           educação psdb governo  105622  105648  1.201485       928
+20          estadual educação psdb  105610  105637  1.205384       928
+22            psdb governo alckmin  105634  105656  1.433469       928
+25   educação psdb governo alckmin  105622  105656  2.022306       928
+23            cara educação estado  106657  106682  1.440063       93
